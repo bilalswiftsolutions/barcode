@@ -8,7 +8,7 @@ You must have php >= 5.3.2 installed and GD extension enabled.
 CodeItNow Barcode & Qr Code Generator can install by composer.
 
 ```
-composer require codeitnowin/barcode
+composer require bilalswiftsolutions/barcode
 ``` 
 
 ## Uses -
